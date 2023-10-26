@@ -100,7 +100,9 @@
   
   /* Register Styles */
   .register {
-    width: 100%;
+    width:60%;
+    margin-left: 20%;
+    align-items: center;
     box-shadow: 0 0 250px #000;
     text-align: center;
     padding: 4rem 2rem;
